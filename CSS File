@@ -1,0 +1,4 @@
+body {
+    background-color: maroon;
+}
+<h1 style="color:purple;">This is a Purple Heading</h1>
